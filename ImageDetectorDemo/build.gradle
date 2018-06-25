@@ -1,0 +1,19 @@
+apply plugin: 'com.android.application'
+
+android {
+    defaultConfig {
+        applicationId "com.affectiva.imagedetectordemo"
+        versionName "3.2-01"
+    }
+}
+
+apply from: "../module-defaults.gradle"
+
+dependencies {
+    implementation 'com.android.support:appcompat-v7:22.+'
+    implementation 'com.android.support.constraint:constraint-layout:+'
+    implementation 'com.squareup.picasso:picasso:2.5.2'
+    implementation 'com.affectiva.android:affdexsdk:3.2'
+
+
+}

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Graduation Project</string>
+    <string name="go">Play</string>
+    <string name="blankFrag">Ready to start.. </string>
+
+    <string name="happy">happy </string>
+    <string name="sad">sad </string>
+    <string name="angry">angry </string>
+    <string name="surprise">surprise </string>
+    <string name="fear">fear </string>
+    <string name="disgust">disgust </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

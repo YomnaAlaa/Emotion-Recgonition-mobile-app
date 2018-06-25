@@ -1,0 +1,11 @@
+apply plugin: 'com.android.application'
+
+android {
+    defaultConfig {
+        applicationId "com.affectiva.cameradetectordemo"
+        versionName "3.2.0-01"
+    }
+}
+
+apply from: "../module-defaults.gradle"
+
